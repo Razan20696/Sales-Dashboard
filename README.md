@@ -17,3 +17,12 @@ This project aims to evaluation of sales data, market trends, monthly sales, qua
 <H2>Dataset</H2>
 <a href="https://github.com/Razan20696/Sales-Dashboard/blob/main/Dataset.xlsx">Data set</a>
 
+<H2>Methodology</H2>
+
+-	Cleaning and examining the data that has been gathered, eliminating duplicates and outliers, dealing with missing values, and verifying consistency.
+-	Using Excel to analyze data and produce statistical summaries that include the mean, median, and standard deviation.
+-	To address the project's questions, create pivot tables and charts. 
+-	Using Excel to design and create a dashboard with charts and slicers to filter it.
+-	Making recommendations based on the analysis's findings.
+
+
