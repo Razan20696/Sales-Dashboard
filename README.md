@@ -28,3 +28,10 @@ This project aims to evaluation of sales data, market trends, monthly sales, qua
 <H2>Interactive Dashboard </H2>
 <a href="https://github.com/Razan20696/Sales-Dashboard/blob/main/Sales%20Dashboard.PNG">Sales Dashboard</a>
 
+<H2>Conclusion</H2>
+
+-Since women make up around 52% of all sales, discounts can be offered to them in the accessories category, which is one of the most popular categories among them. This may lead to a rise in sales.
+-Despite having lower sales, Branch C in Naypyitaw City was the top branch in January, as the visualization illustrates. Among the three months, March has the lowest customer satisfaction rate, so we must raise customer satisfaction in branch C.
+-The health and beauty line has the lowest sales, so we need to promote it more.
+
+
