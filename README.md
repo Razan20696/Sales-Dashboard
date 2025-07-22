@@ -1,4 +1,4 @@
-<H1>Dataset Description</H1>
+`<H1>Dataset Description</H1>
 This dataset measures sales at three supermarket locations across three cities from January to August 2019. With varying customer types, genders, and payment methods, these branches processed a thousand sales orders. 
   
 <H2>Objective</H2>
@@ -26,5 +26,5 @@ This project aims to evaluation of sales data, market trends, monthly sales, qua
 -	Making recommendations based on the analysis's findings.
   
 <H2>Interactive Dashboard </H2>
-<a href="https://github.com/Razan20696/Sales-Dashboard/blob/main/Dataset.xlsx](https://github.com/Razan20696/Sales-Dashboard/blob/main/Sales%20Dashboard.PNG">Sales Dashboard</a>
+<a href="https://github.com/Razan20696/Sales-Dashboard/blob/main/Sales%20Dashboard.PNG">Sales Dashboard</a>
 
