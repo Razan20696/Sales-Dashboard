@@ -24,5 +24,7 @@ This project aims to evaluation of sales data, market trends, monthly sales, qua
 -	To address the project's questions, create pivot tables and charts. 
 -	Using Excel to design and create a dashboard with charts and slicers to filter it.
 -	Making recommendations based on the analysis's findings.
-
+  
+<H2>Interactive Dashboard </H2>
+<a href="https://github.com/Razan20696/Sales-Dashboard/blob/main/Dataset.xlsx](https://github.com/Razan20696/Sales-Dashboard/blob/main/Sales%20Dashboard.PNG">Sales Dashboard</a>
 
