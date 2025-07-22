@@ -26,7 +26,8 @@ This project aims to evaluation of sales data, market trends, monthly sales, qua
 -	Making recommendations based on the analysis's findings.
   
 <H2>Interactive Dashboard </H2>
-<a href="https://github.com/Razan20696/Sales-Dashboard/blob/main/Sales%20Dashboard.PNG">Sales Dashboard</a>
+<img width="1693" height="591" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/0b37cf93-c988-4997-a236-41c7ef6bd9d9" />
+
 
 <H2>Conclusion</H2>
 
